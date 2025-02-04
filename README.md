@@ -1,7 +1,5 @@
 # Reinforcement-Learning-Based-Traffic-Optimization-System
 
-<h1 align="center"> Reinforcement-Learning-Based-Traffic-Optimization-System </h1>
-
 This project offers a framework for optimizing traffic flow at complex intersections using a Deep Q-Learning Reinforcement Learning agent. By intelligently selecting traffic light phases, the agent aims to maximize traffic efficiency.
 
 ## Deep Q-Learning Agent
