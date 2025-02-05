@@ -4,6 +4,7 @@ This project offers a framework for optimizing traffic flow at complex intersect
 
 ## Deep Q-Learning Agent
 
+
 - **Framework**: Q-Learning with a deep neural network.
 - **Context**: Traffic signal control at a single intersection.
 - **Environment**: Features a 4-way intersection with 4 incoming and outgoing lanes per arm, each 750 meters long. Traffic lights are positioned such that each arm has dedicated lanes for specific movements.
